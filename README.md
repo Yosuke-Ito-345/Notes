@@ -1,10 +1,6 @@
 # 雑記帳
 
-## [Test](/Test.md)（2024年9月30日）
-
-## [ABC](/ABC.md)（2024年10月1日）
-
-## [Test Directory](/Test/README.md)（2024年10月1日）
+## [Music](/Music/README.md)
 
 #### お断り / Disclaimer
 本ページに掲載された全ての文章は筆者個人の意見であり、所属する団体とは無関係です。  
