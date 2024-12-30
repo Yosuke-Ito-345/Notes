@@ -1,11 +1,6 @@
-## 【考察】何故(−1)×(−1)＝1となるのか
-
-<!-- MathJax -->
-<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
 中学1年の数学で、負の数と負の数を掛けると正の数になると教わった。
 教科書の説明では、掛ける数を1つずつ減らしていったときの規則性から、そのように考えるのが自然である、と記載されていたと思う。
+```math
 \begin{align}
 	(-1) \times 2    &= -2, \\
 	(-1) \times 1    &= -1, \\
@@ -13,6 +8,7 @@
 	(-1) \times (-1) &= 1,  \\
 	                 &\vdots
 \end{align}
+```
 当時はその説明で納得していた。
 だが、中学2年の数学で証明を学習して以来、等式 $(-1) \times (-1) = 1$ も証明されるべきだと考えるようになった。
 
@@ -20,9 +16,9 @@
 その内容に基づけば、 $(-1) \times (-1) = 1$ を数学的に証明することはできる。
 しかし、その証明を見たところで、多くの人は納得しないだろう。
 というのは、そもそも
-\\[
+```math
 	(-1) \times (-1) = 1
-\\]
+```
 が成り立つように整数と乗法（掛け算）を定義しているからだ。
 つまり、数学者の間には「 $-1$ と $-1$ を掛けたら $1$ になるべきだ」という共通認識があり、それが実現されるように整数を構築しているのである。
 
@@ -278,5 +274,3 @@
 ```math
 	(-1) \cdot (-1) = [(0,1)] \cdot [(0,1)] = [(0 \cdot 0 + 1 \cdot 1, 0 \cdot 1 + 1 \cdot 0)] = [(1,0)] = 1
 ```
-
-[Math](../README.md)
