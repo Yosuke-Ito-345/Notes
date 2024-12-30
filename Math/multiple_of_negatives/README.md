@@ -252,7 +252,7 @@
 前提として、自然数全体からなる集合
 
 \\[
-	\mathbb{N} = \\{ 0,\ 1,\ 2,\ 3,\ \dots \\}
+	\mathbb{N} = \lbrace 0,\ 1,\ 2,\ 3,\ \dots \rbrace
 \\]
 
 とその上の加法・乗法は既に定義されているものとし、「自然数の性質」の節で述べたような基本的な定理も所与とする。
@@ -274,7 +274,7 @@
 また、 $(a,b) \in \mathbb{N} \times \mathbb{N}$ に対し、その同値類を $[(a,b)]$ で表す。
 
 \\[
-	[(a,b)] = \{ (c,d) \in \mathbb{N} \times \mathbb{N} \mid (a,b) \sim (c,d) \}
+	[(a,b)] = \lbrace (c,d) \in \mathbb{N} \times \mathbb{N} \mid (a,b) \sim (c,d) \rbrace
 \\]
 
 （後で確認するが、この元が整数 $a - b$ に対応する。）
@@ -315,7 +315,7 @@
 更に、 集合 $\mathbb{Z}$ は以下のような非交差和で表される。
 
 \\[
-	\mathbb{Z} = \{ -k \mid 0 < k \in \mathbb{N} \} \sqcup \{ 0 \} \sqcup \{ k \mid 0 < k \in \mathbb{N} \}
+	\mathbb{Z} = \lbrace -k \mid 0 < k \in \mathbb{N} \rbrace \sqcup \lbrace 0 \rbrace \sqcup \lbrace k \mid 0 < k \in \mathbb{N} \rbrace
 \\]
 
 すると 任意の $x \in \mathbb{Z}$ には加法の逆元が存在することになるから、それも $-x$ と記す。
