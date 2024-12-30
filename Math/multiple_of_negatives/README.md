@@ -1,9 +1,8 @@
 ## 【考察】何故(−1)×(−1)＝1となるのか
 
 <!-- MathJax -->
-<script type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 中学1年の数学で、負の数と負の数を掛けると正の数になると教わった。
 教科書の説明では、掛ける数を1つずつ減らしていったときの規則性から、そのように考えるのが自然である、と記載されていたと思う。
