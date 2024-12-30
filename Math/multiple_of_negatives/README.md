@@ -86,7 +86,7 @@
 **分配則**
 
 \begin{align}
-	l \times (m + n) = l \times m + l \times n \\
+	l \times (m + n) = l \times m + l \times n \\\\  
 	(m + n) \times l = m \times l + n \times l
 \end{align}
 
@@ -171,8 +171,9 @@
 
 それに加え、整数の実用性を考えると次の原理がどうしても必要になる。
 
-> [!NOTE]
-> 自然数において成立する等式は、そのまま整数でも成り立つ。
+:::note info
+自然数において成立する等式は、そのまま整数でも成り立つ。
+:::
 
 すなわち、「自然数の性質」の節で提示した種々の等式は $l,\ m,\ n$ が整数だとしても成立してほしい。
 そうでなければ、 $l,\ m,\ n$ の正負に応じて等式を場合分けしなければならなくなり、非常に面倒である。
@@ -283,7 +284,7 @@
 （これらはwell-definedである。）
 
 \begin{align}
-	[(a,b)] + [(c,d)] &= [(a + c, b + d)] \\
+	[(a,b)] + [(c,d)] &= [(a + c, b + d)] \\\\  
 	[(a,b)] \cdot [(c,d)] &= [(ac + bd, ad + bc)]	
 \end{align}
 
