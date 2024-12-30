@@ -1,5 +1,7 @@
 # 雑記帳
 
+## [Math](/Math/README.md)
+
 ## [Music](/Music/README.md)
 
 #### お断り / Disclaimer
