@@ -1,3 +1,10 @@
+## 【考察】何故(−1)×(−1)＝1となるのか
+
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 中学1年の数学で、負の数と負の数を掛けると正の数になると教わった。
 教科書の説明では、掛ける数を1つずつ減らしていったときの規則性から、そのように考えるのが自然である、と記載されていたと思う。
 ```math
@@ -274,3 +281,5 @@
 ```math
 	(-1) \cdot (-1) = [(0,1)] \cdot [(0,1)] = [(0 \cdot 0 + 1 \cdot 1, 0 \cdot 1 + 1 \cdot 0)] = [(1,0)] = 1
 ```
+
+[Math](../README.md)
