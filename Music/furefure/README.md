@@ -9,8 +9,8 @@
 作詞: mimimy  
 作曲: 古屋葵
 
-歌詞[^1]: https://linkco.re/xS0bV93x/songs/1826210/lyrics?lang=ja  
-[^1] 編集の都合で一部改行位置を変更している。
+歌詞[^1] https://linkco.re/xS0bV93x/songs/1826210/lyrics?lang=ja  
+[^1]: 編集の都合で一部改行位置を変更している。
 
 ふとしたきっかけで知った Palette Parade というアイドルグループ。
 その中でも特に印象に残ったのが「フレフレ」という楽曲である。
