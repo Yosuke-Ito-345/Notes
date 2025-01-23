@@ -1,3 +1,6 @@
 title: Miscellaneous Notes
 description: 雑記帳
 theme: jekyll-theme-slate
+
+markdown: kramdown
+
