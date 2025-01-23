@@ -2,14 +2,14 @@
 
 ## 【感想】フレフレ（Palette Parade）
 
-歌: Palette Parade  
-配信: https://soundcloud.com/user-83411977  
-公開日: 2022年
+歌：Palette Parade  
+配信：[SoundCloud](https://soundcloud.com/user-83411977)  
+公開日：2022年
 
-作詞: mimimy  
-作曲: 古屋葵
+作詞：mimimy  
+作曲：古屋葵
 
-歌詞: https://linkco.re/xS0bV93x/songs/1826210/lyrics?lang=ja  
+歌詞：[TuneCore Japan](https://linkco.re/xS0bV93x/songs/1826210/lyrics?lang=ja)
 
 ふとしたきっかけで知った Palette Parade というアイドルグループ。
 その中でも特に印象に残ったのが「フレフレ」という楽曲である。
