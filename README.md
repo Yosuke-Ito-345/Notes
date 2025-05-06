@@ -1,7 +1,5 @@
 ## [Math](/Math/README.md)
 
-## [Music](/Music/README.md)
-
 #### Disclaimer
 
 The contents presented here are all my personal views. They do not represent any opinions of my affiliations.  
